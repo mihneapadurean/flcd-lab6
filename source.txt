@@ -1,0 +1,6 @@
+START{
+	INT n;
+	READ("n2);
+
+	
+} STOP
